@@ -127,9 +127,6 @@ h1 em, h2 em { color: #c47762; font-weight: 400; }
 .small-smile img { width: 100%; height: auto; border-radius: 4px; }
 .small-smile figcaption { padding-top: 16px; color: #a46f5e; text-align: center; font-family: var(--font-display); font-style: italic; font-size: 13px; }
 .support-note {
-  display: flex;
-  align-items: center;
-  gap: 23px;
   width: min(100%, 790px);
   margin: 104px auto 100px;
   padding: 27px 32px;
@@ -137,7 +134,6 @@ h1 em, h2 em { color: #c47762; font-weight: 400; }
   border-radius: 12px;
   background: rgba(255, 250, 243, .7);
 }
-.support-icon { flex: none; color: #ba7966; font-size: 32px; }
 .support-note p { margin: 0; color: var(--soft-ink); font-size: 14px; line-height: 1.7; }
 .site-footer { display: flex; justify-content: space-between; gap: 20px; padding: 28px 0 44px; border-top: 1px solid var(--line); color: var(--soft-ink); font-size: 13px; }
 .site-footer a { text-underline-offset: 4px; }
@@ -155,7 +151,7 @@ h1 em, h2 em { color: #c47762; font-weight: 400; }
   .story-copy .lead { font-size: 19px; }
   .reading-column blockquote { margin: 42px 0; padding-left: 22px; }
   .small-smile { width: min(100% - 30px, 310px); margin-top: 58px; }
-  .support-note { align-items: flex-start; gap: 14px; margin: 72px auto 65px; padding: 22px; }
+  .support-note { margin: 72px auto 65px; padding: 22px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
