@@ -1,5 +1,7 @@
 # Dibdən baxanda
 
+> ### Əgər bu mesajı oxuyursansa, anonim şəkildə də olsa, bunu oxumağa nail olduğunu bildirsən, gözəl olar :)
+
 Elə vaxtlar olub ki, xəyal qurmağı belə bacarmamışam. Səhər yuxudan durmaq istəməmişəm, gecə isə yatmaq. Günün başlaması da, bitməsi də mənə ağır gəlib.
 
 Beynimdə iki səs var idi. Biri deyirdi: “Heç nə etmə, gücün yoxdur.” O biri isə boş keçirdiyim hər dəqiqəni üzümə vururdu. Nə dincələ bilirdim, nə də irəli gedə bilirdim. Bu çaxnaşmanın içində insan özündən də uzaq düşür. Bəzən fikirlərim elə kəskinləşirdi ki, özümlə baş-başa qalmaq istəmirdim. Sakitlik gələndə düşüncələrimin səsi daha da yüksəlirdi.
