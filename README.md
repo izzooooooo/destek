@@ -16,13 +16,6 @@ Zaman haqqında çox şey deyirlər. Məncə, zaman təkbaşına heç nəyi həl
   <a href="https://izzooooooo.github.io/destek/"><strong>Hekayəni rahat oxumaq üçün səhifəni aç →</strong></a>
 </p>
 
-<p align="center">
-  <img src="docs/assets/firlanan-pisik.png" alt="Günəşli otaqda şənliklə fırlanan sevimli pişik" width="390">
-  <img src="docs/assets/corek-yeyen-it.png" alt="İsti mətbəxdə çörək yeyən sevimli it" width="390">
-</p>
-
-<p align="center"><sub>Bu şəkillər hekayə üçün hazırlanmış orijinal meme təsvirləridir.</sub></p>
-
 ---
 
 Əgər bu hisslər indi sənin təhlükəsizliyinə təsir edirsə, yaxın olduğun bir insana xəbər ver və yaşadığın yerdə təcili yardıma müraciət et. Tək qalmağın lazım deyil.
