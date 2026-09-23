@@ -16,6 +16,12 @@ Zaman haqqında çox şey deyirlər. Məncə, zaman təkbaşına heç nəyi həl
   <a href="https://izzooooooo.github.io/destek/"><strong>Hekayəni rahat oxumaq üçün səhifəni aç →</strong></a>
 </p>
 
+<p align="center">
+  <img src="docs/assets/corek-yeyen-it.jpeg" alt="Əlində çörək tutan it" width="300">
+  &nbsp;&nbsp;
+  <img src="docs/assets/kosmik-pisik.jpg" alt="Ulduzlu səma fonunda Yer kürəsinin üstündə oturan pişik" width="200">
+</p>
+
 ---
 
 Əgər bu hisslər indi sənin təhlükəsizliyinə təsir edirsə, yaxın olduğun bir insana xəbər ver və yaşadığın yerdə təcili yardıma müraciət et. Tək qalmağın lazım deyil.

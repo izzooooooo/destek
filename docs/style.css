@@ -32,6 +32,7 @@ body::before {
 }
 
 a { color: inherit; }
+img { display: block; max-width: 100%; height: auto; }
 .page-shell { position: relative; width: min(100% - 64px, 1180px); margin: 0 auto; }
 
 .site-header {
@@ -49,7 +50,11 @@ a { color: inherit; }
 
 .story { padding-top: clamp(44px, 7vw, 94px); }
 .story-grid {
-  width: min(100%, 730px);
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(250px, .75fr);
+  align-items: center;
+  gap: clamp(38px, 6vw, 86px);
+  width: min(100%, 1050px);
   margin: 0 auto;
 }
 .eyebrow {
@@ -74,7 +79,30 @@ h1 em, h2 em { color: #c47762; font-weight: 400; }
 .story-copy .lead { font-size: clamp(19px, 2vw, 22px); line-height: 1.76; color: #3b4741; }
 .story-copy p:not(.eyebrow), .reading-column p { max-width: 68ch; }
 .story-copy p + p { margin-top: 22px; }
-.reading-column { width: min(100%, 730px); margin: 44px auto 0; }
+.cosmic-card {
+  margin: 0;
+  padding: 9px 9px 14px;
+  border-radius: 18px;
+  background: #152029;
+  box-shadow: 0 28px 58px rgba(18, 37, 47, .19);
+  transform: rotate(1.5deg);
+}
+.cosmic-card img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center 54%;
+  border-radius: 12px;
+}
+.cosmic-card figcaption {
+  padding-top: 12px;
+  color: #e8e7df;
+  text-align: center;
+  font-family: var(--font-display);
+  font-size: 12px;
+  font-style: italic;
+}
+.reading-column { width: min(100%, 730px); margin: 76px auto 0; }
 .reading-column p { margin: 0 0 31px; }
 .reading-column blockquote {
   margin: 57px 0;
@@ -86,12 +114,24 @@ h1 em, h2 em { color: #c47762; font-weight: 400; }
   letter-spacing: -.035em;
 }
 .reading-column .closing { font-weight: 600; color: #4b6250; }
+.small-smile {
+  width: min(100% - 20px, 330px);
+  margin: 80px auto 0;
+  padding: 12px 12px 18px;
+  border: 1px solid #e8ded0;
+  border-radius: 8px;
+  background: #fffaf3;
+  box-shadow: 0 19px 48px rgba(85, 70, 53, .11);
+  transform: rotate(-2deg);
+}
+.small-smile img { width: 100%; height: auto; border-radius: 4px; }
+.small-smile figcaption { padding-top: 16px; color: #a46f5e; text-align: center; font-family: var(--font-display); font-style: italic; font-size: 13px; }
 .support-note {
   display: flex;
   align-items: center;
   gap: 23px;
   width: min(100%, 790px);
-  margin: 74px auto 100px;
+  margin: 104px auto 100px;
   padding: 27px 32px;
   border: 1px solid var(--line);
   border-radius: 12px;
@@ -107,12 +147,15 @@ h1 em, h2 em { color: #c47762; font-weight: 400; }
   .site-header { min-height: 69px; }
   .header-note { display: none; }
   .story { padding-top: 50px; }
+  .story-grid { grid-template-columns: 1fr; gap: 36px; width: min(100%, 590px); }
   h1 { font-size: clamp(56px, 12vw, 76px); }
-  .reading-column { margin-top: 40px; }
+  .cosmic-card { width: min(100% - 28px, 360px); margin: 0 auto; }
+  .reading-column { margin-top: 54px; }
   .story p { font-size: 16px; line-height: 1.78; }
   .story-copy .lead { font-size: 19px; }
   .reading-column blockquote { margin: 42px 0; padding-left: 22px; }
-  .support-note { align-items: flex-start; gap: 14px; margin: 54px auto 65px; padding: 22px; }
+  .small-smile { width: min(100% - 30px, 310px); margin-top: 58px; }
+  .support-note { align-items: flex-start; gap: 14px; margin: 72px auto 65px; padding: 22px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
