@@ -1,29 +1,29 @@
-# Dibdən baxanda
-
-> ### Əgər bu mesajı oxuyursansa, anonim şəkildə də olsa, bunu oxumağa nail olduğunu bildirsən, gözəl olar :)
-
-Elə vaxtlar olub ki, xəyal qurmağı belə bacarmamışam. Səhər yuxudan durmaq istəməmişəm, gecə isə yatmaq. Günün başlaması da, bitməsi də mənə ağır gəlib.
-
-Beynimdə iki səs var idi. Biri deyirdi: “Heç nə etmə, gücün yoxdur.” O biri isə boş keçirdiyim hər dəqiqəni üzümə vururdu. Nə dincələ bilirdim, nə də irəli gedə bilirdim. Bu çaxnaşmanın içində insan özündən də uzaq düşür. Bəzən fikirlərim elə kəskinləşirdi ki, özümlə baş-başa qalmaq istəmirdim. Sakitlik gələndə düşüncələrimin səsi daha da yüksəlirdi.
-
-O vaxt mənə “Hər şey yaxşı olacaq” deyənlərə inanmaq çətin idi. Hansısa sözə, hansısa möcüzəyə tutunub səhər oyananda tamam başqa insan olacağımı gözləmək istəmirdim. Mən sadəcə yaşadığım bu ağırlığın bir gün indiki qədər ağır olmamasını istəyirdim.
-
-Zaman haqqında çox şey deyirlər. Məncə, zaman təkbaşına heç nəyi həll etmir. Olanları silmir, cavabsız suallara cavab tapmır. Amma bəzən bir xatirənin ürəyimizdə tutduğu yeri yavaş-yavaş dəyişir. Bir gün gəlir, dünən səni boğan fikri xatırlayırsan və görürsən ki, artıq nəfəs ala bilirsən. Bəlkə də sağalmaq elə buradan başlayır: hər şeyi unutmaqdan yox, xatırlayanda da yaşamağa davam edə bilməkdən.
-
-Əgər sən də indi o boşluğun içindəsənsə, özünü oradan dərhal çıxmağa məcbur etmə. Bu günü keçirmək üçün kiminsə əlindən tutmaq lazımdırsa, tut. Danışmaq lazımdırsa, danış. Kömək istəmək özünü aldatmaq deyil; ən çətin gündə belə özünə bir şans verməkdir.
-
-Ümid edirəm, bir gün bu linkə yenidən girəndə həmin ağır günləri xatırlayacaqsan. Sonra ətrafına baxıb, bəlkə də çox sakit bir səslə deyəcəksən: “Yaxşı ki, o gün davam etmişəm.” :))
+# Salam Debatçı:)
 
 <p align="center">
-  <a href="https://izzooooooo.github.io/destek/"><strong>Hekayəni rahat oxumaq üçün səhifəni aç →</strong></a>
+  <a href="https://izzooooooo.github.io/destek/"><strong>Yazını rahat oxumaq üçün səhifəni aç →</strong></a>
 </p>
+
+Bilmirem bunu kim hansi ehval ruhiye ile oxuyur ancaq onu demek isteyeremki hecne gorulduyu kimi deyil, bir insanin hekayesi neqeder derin olarsa masqasi oqeder qalın olur. Hec aqlina bele gelmeyecek birinden ele bir şey eşide bilersenki şok yaşadar insanaki bu problemlerle bu ehval ruhiye bu yaşanti stili nece mumkundu. Kitab qapağina gore qınanmır heçvaxt
 
 <p align="center">
-  <img src="docs/assets/corek-yeyen-it.jpeg" alt="Əlində çörək tutan it" width="300">
-  &nbsp;&nbsp;
-  <img src="docs/assets/kosmik-pisik.jpg" alt="Ulduzlu səma fonunda Yer kürəsinin üstündə oturan pişik" width="200">
+  <img src="docs/assets/kosmik-pisik.jpg" alt="Ulduzlu səma fonunda Yer kürəsinin üstündə oturan pişik" width="280">
 </p>
+<p align="center"><em>Bəzən maskanın altında tamam başqa bir dünya olur.</em></p>
 
----
+Vaxtlar olub intihar bir seçenek olub vaxtlar olub 50 60 saat yuxusuz qalmişam ele zamanlar olubku gece yatmaq seher oyanmaq istememisem, bezen yorğunken dincelmek dincken hereket etmek istememişem. Yenede çole yansitmamaqda inadkar olmuşam herzaman. Məni herkes neqeder şən ve deyib gülən birisi olaraq tanısa belə maskanın altini çox az insan bilir veya gorub
 
-Əgər bu hisslər indi sənin təhlükəsizliyinə təsir edirsə, yaxın olduğun bir insana xəbər ver və yaşadığın yerdə təcili yardıma müraciət et. Tək qalmağın lazım deyil.
+Səni ən yaxşı tanıyan insanın belə bilmədiyi bəzi məqamlarin var hansiki onlari yalnız ve yalnız özünə saxlamısan, hemin sohbetleri anca özün özünle edirsen, anlaşılan meseledi. Sadece sene bir meslehet vere bileremki tek qalmağı seçmə. Cunki seçilən təklik ilk basda xoş gelsede zamanla məcburi təkliyə çevrilmə ehtimalı var ve məcburi olan teklik hecde ideal hal deyil. Hansi ruh halindasna hansi veziyyetdesen bile bilmerem lakin onu deqiq deye bileremki işini asanlaşdiracaq yükünü azaldacaq bir məşguliyyet tap veya biriyle vaxt keçirt. Ona bir qurtarici vasite olaraq yox komek aleti kimi bax. Cunki o qurtarici meleyininde birdenbire yoxa cixib səni mənfiye salma ehtimali var:)
+
+Teessufki sene bir motivasya vere bilmiyecem cunki ozum uzun zaman evvel heyatdan neinki zovq almaqi, heyata olan inancimi marağimi sabaha olan umidimi hemçinin xəyal qurma qabiliyyətimi itirmişəm. Ozume motivasya verən lazimdi:))
+
+<p align="center">
+  <img src="docs/assets/corek-yeyen-it.jpeg" alt="Əlində çörək tutan it" width="340">
+</p>
+<p align="center"><em>Bəzən yükü azaldan şey sadəcə kiçik bir məşğuliyyətdir.</em></p>
+
+Sene sadece onu deye bileremki ne olursa olsun heçcaxt hərşeyin çarəsine ozunun baxa biləcəyini düşünmə(praktikada heçde yaxşı effekt vermədi mene). Bezen gucluymuş kimi gorunmeye çalişmaq coxda ideal seçim deyil. Uğurlar..
+
+Əgər bura qədər gəlibsense ve bu mesaji oxuyubsansa zehmet olmasa githubdaki bu repo nu ulduzla istesen öz istesen anonim bir səhifeden, bilimki kağizimi goturen insan bu sehifeye qeder gele bilib:D
+
+Kağiza bura nece gələ bileceyini çoxda açiqlayici yazmadiqimi bilirem yuxusuz idim))
